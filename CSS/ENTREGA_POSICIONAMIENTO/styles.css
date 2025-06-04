@@ -40,3 +40,16 @@ main {
   border: 1px dotted #9ad79b;
   background-color: #000;
 }
+
+.features {
+  position: relative;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.feature {
+  margin: 1rem auto;
+  padding: 1rem;
+  width: 300px;
+  position: relative;
+}
