@@ -14,3 +14,13 @@ body {
   background-color: #000000;
   color: #9ad79b;
 }
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  background-color: #111;
+  z-index: 10;
+}
