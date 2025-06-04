@@ -24,3 +24,9 @@ header {
   background-color: #111;
   z-index: 10;
 }
+
+main {
+  position: relative;
+  top: 80px;
+  padding: 1rem;
+}
